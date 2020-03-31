@@ -17,8 +17,8 @@ Server: remotemysql.com
 
 Port: 3306*/
 
-// $link = mysqli_connect("remotemysql.com", " UN4HX42TJA", "bVdy8vW8wY")
-//     or die("Не удалось соединится с сервером");
+ $link = mysqli_connect("remotemysql.com", " UN4HX42TJA", "bVdy8vW8wY")
+     or die("Не удалось соединится с сервером");
 
 
 
