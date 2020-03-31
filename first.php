@@ -22,7 +22,7 @@ $link = mysqli_connect("remotemysql.com", " UN4HX42TJA", "bVdy8vW8wY")
 
 
 
-    // echo "Hello World"
+    echo "Hello World"
 
     
     ?>
