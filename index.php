@@ -22,8 +22,9 @@ Port: 3306*/
 
 
 
-    echo "Hello World!!!!!!!!!!!"
+    // echo "Hello World!!!!!!!!!!!"
 
+    phpinfo()
     
     ?>
 </body>
